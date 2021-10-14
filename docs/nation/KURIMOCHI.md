@@ -1,4 +1,4 @@
-# NEXCO
+# KURIMOCHI
 ## 詳細
 |||
 |-|-|
