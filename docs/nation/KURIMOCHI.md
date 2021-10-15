@@ -1,6 +1,5 @@
 # KURIMOCHI
-![Imgur Image](https://i.imgur.com/I9p3GBR.jpg)
-![Imgur Image](https://i.imgur.com/XJk3ngH.png)
+![Imgur Image](https://i.imgur.com/v85Wzfx.jpg)
 ## 詳細
 |||
 |-|-|
