@@ -16,3 +16,4 @@ title: 国一覧
 | [KURIMOCHI](/nation/KURIMOCHI)             | 入ったらハッピーになれる       |
 | [SENDAI_HAN](/nation/SENDAI_HAN)           | 特に言うことはないです       |
 | [多禰連邦国](/nation/Federation_Amatanei)     | 多数からなる島々の連邦国です。 |
+| [U.S.A.(United States of America)](/nation/U.S.A)           | アメリカは日本に存在していたのだ()|
