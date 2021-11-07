@@ -15,3 +15,4 @@ title: 国一覧
 | [NEXCO](/nation/NEXCO)                     | 高速道路を建設します           |
 | [KURIMOCHI](/nation/KURIMOCHI)             | 入ったらハッピーになれる       |
 | [SENDAI_HAN](/nation/SENDAI_HAN)           | 特に言うことはないです       |
+| [AMATANEI_Federal_country](/nation/AMATANEI_Federal_country)           | 南西諸島での生活を目標に上げています |
