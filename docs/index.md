@@ -26,3 +26,4 @@ GitHubでpull requestを送信してください！
 
 ### その他
 - [国一覧](/nation/index.md)
+- [町一覧](/town/index.md)
