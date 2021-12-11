@@ -26,6 +26,9 @@ HiroSeries
 税金  
 /nation taxesは0です
 
+### [法律](/docs/nation/benette/houten/sendai_hou.md)
+benetteにおける法律
+
 ### 加盟にあたっての制約事項
 ①非好戦的  
 
