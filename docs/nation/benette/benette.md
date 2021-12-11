@@ -3,7 +3,7 @@
 ## 詳細
 |||
 |-|-|
-|   国旗   | ![国旗](/docs/nation/benette/image/benette.png) |
+|   国旗   | [国旗]<img src="https://pasteboard.co/UwX1EtdbU0fJ.png" alt="benette国旗" width="500" height="300" /> |
 |  国の標語 | なし |
 |   国歌   | なし |
 |   公用語   | 日本語　英語　SGA |
@@ -26,7 +26,7 @@ HiroSeries
 税金  
 /nation taxesは0です
 
-### [法律](/docs/nation/benette/houten/sendai_hou.md)
+### [法律](/nation/benette/houten/sendai_hou.md)
 benetteにおける法律
 
 ### 加盟にあたっての制約事項
