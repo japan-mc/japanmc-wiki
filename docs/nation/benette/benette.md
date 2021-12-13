@@ -3,7 +3,7 @@
 ## 詳細
 |||
 |-|-|
-|   国旗   | [国旗]<img src="https://pasteboard.co/UwX1EtdbU0fJ.png" alt="benette国旗" width="500" height="300" /> |
+|  国旗(仮) | [国旗]<img src="https://pasteboard.co/UwX1EtdbU0fJ.png" alt="benette国旗" width="500" height="300" /> |
 |  国の標語 | なし |
 |   国歌   | なし |
 |   公用語   | 日本語　英語　SGA |
